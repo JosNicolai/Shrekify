@@ -1,0 +1,12 @@
+fastai==2.7.9
+fastbook==0.0.26
+fastcore==1.5.16
+fastdownload==0.0.7
+fastjsonschema==2.16.1
+fastprogress==1.0.3
+filelock==3.7.1
+matplotlib==3.5.2
+matplotlib-inline==0.1.3
+numpy==1.23.1
+packaging==21.3
+pandas==1.4.3
